@@ -1,0 +1,22 @@
+{
+  "num_classes": 5,
+  "classes": [
+    "Apple",
+    "Banana",
+    "Grape",
+    "Orange",
+    "Pineapple"
+  ],
+  "class_indices": {
+    "Apple": 0,
+    "Banana": 1,
+    "Grape": 2,
+    "Orange": 3,
+    "Pineapple": 4
+  },
+  "image_size": [
+    224,
+    224
+  ],
+  "dataset_path": "dataset"
+}
