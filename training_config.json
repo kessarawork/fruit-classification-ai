@@ -1,0 +1,22 @@
+{
+  "base_model": "MobileNetV2",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 5,
+  "classes": [
+    "Apple",
+    "Banana",
+    "Grape",
+    "Orange",
+    "Pineapple"
+  ],
+  "total_params": 2422597,
+  "trainable_params": 164613,
+  "non_trainable_params": 2257984,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "loss": "categorical_crossentropy"
+}
